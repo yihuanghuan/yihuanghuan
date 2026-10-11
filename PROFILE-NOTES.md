@@ -13,3 +13,5 @@ The contribution animation uses [Platane/snk](https://github.com/Platane/snk), p
 The doodle is a fictional cat-and-robot scene. It does not depict a research result. The PNG is used when the visitor prefers reduced motion.
 
 Design references: [Sindre Sorhus](https://github.com/sindresorhus/sindresorhus), [Cassidy Williams](https://github.com/cassidoo/cassidoo), and [Simon Willison's self-updating profile](https://github.com/simonw/simonw). These profiles informed the small GIF, personal voice, and self-updating releases section; their artwork and prose were not copied.
+
+The colored handwritten labels are local PNG assets with transparent backgrounds and separate dark variants. They use Segoe Print and simple drawn icons; no external badge service is required. Keep their alt text descriptive. The interests section reflects the owner's stated music, travel, and investing preferences.

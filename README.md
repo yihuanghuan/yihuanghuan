@@ -5,17 +5,27 @@
   <img src="./assets/doodle.gif" width="1000" alt="A curious cat keeps moving the block a little robot arm is trying to pick up.">
 </picture>
 
-I'm Yihuan (黄翊桓), a robotics student at Chongqing University.
+I'm **Yihuan (黄翊桓)**, a robotics student at Chongqing University.
 
-These days I'm interested in VLA and robot manipulation, especially how to get a robot to handle an object it hasn't seen before. My repos are a mix of robot-arm control, camera experiments, and earlier work with UAVs.
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/focus-vla-dark.png"><img src="./assets/focus-vla.png" width="96" alt="VLA"></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="./assets/focus-manipulation-dark.png"><img src="./assets/focus-manipulation.png" width="262" alt="Robot manipulation"></picture>
 
-A few places to start:
+I'm especially curious about getting robots to handle **objects they haven't seen before**.
 
-- [arm-platform](https://github.com/yihuanghuan/arm-platform): the bits between ROS 2 commands and real motors.
-- [D435i_Apriltag](https://github.com/yihuanghuan/D435i_Apriltag): a camera, some tags, and a lot of coordinate frames.
-- [LATE-Swarm](https://github.com/yihuanghuan/LLM-UAVswarm-performance): getting language instructions to work with the robots' actual state.
+### On my workbench
 
-<sub>Usually somewhere between C++, Python, ROS 2, and a robot that needs calibrating.</sub>
+- [arm-platform](https://github.com/yihuanghuan/arm-platform) · `ROS 2` commands → real motors.
+- [D435i_Apriltag](https://github.com/yihuanghuan/D435i_Apriltag) · cameras, tags, and coordinate frames.
+- [LATE-Swarm](https://github.com/yihuanghuan/LLM-UAVswarm-performance) · language instructions with the robots' actual state in the loop.
+
+<sub>Usually working with <code>C++</code>, <code>Python</code>, and <code>ROS 2</code>.</sub>
+
+### Away from the keyboard
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/interest-music-dark.png"><img src="./assets/interest-music.png" width="126" alt="Music"></picture> Mostly Chinese songs, often **Zhou Shen (周深)**. Some English classics too.
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/interest-travel-dark.png"><img src="./assets/interest-travel.png" width="132" alt="Travel"></picture> Trips with **close friends**, preferably somewhere scenic.
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="./assets/interest-finance-dark.png"><img src="./assets/interest-finance.png" width="146" alt="Finance"></picture> **Personal finance & investing**. I'd like to learn more about both.
 
 ### What's happening in my repos
 
