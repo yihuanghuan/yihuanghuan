@@ -1,0 +1,83 @@
+{
+  "checked_at": "2026-10-11T08:20:30Z",
+  "repos": [
+    {
+      "name": "A_minisnap",
+      "stargazers_count": 1
+    },
+    {
+      "name": "apf-swarm-control",
+      "stargazers_count": 1
+    },
+    {
+      "name": "arm-platform",
+      "stargazers_count": 0
+    },
+    {
+      "name": "circle_LADRC",
+      "stargazers_count": 1
+    },
+    {
+      "name": "D435i_Apriltag",
+      "stargazers_count": 1
+    },
+    {
+      "name": "Distributed-Multi-UAV-Formation-and-Obstacle-Avoidance-System",
+      "stargazers_count": 2
+    },
+    {
+      "name": "distributed-uav-swarm",
+      "stargazers_count": 1
+    },
+    {
+      "name": "Leader-Follower-swarm",
+      "stargazers_count": 2
+    },
+    {
+      "name": "LLM-UAVswarm-performance",
+      "stargazers_count": 2
+    },
+    {
+      "name": "LLM-UAVswarm-ROS1",
+      "stargazers_count": 0
+    },
+    {
+      "name": "minisnap_LADRC",
+      "stargazers_count": 1
+    },
+    {
+      "name": "minisnap_PID",
+      "stargazers_count": 2
+    }
+  ],
+  "releases": [
+    {
+      "repo": "Distributed-Multi-UAV-Formation-and-Obstacle-Avoidance-System",
+      "tag": "v2.1",
+      "published_at": "2026-05-09T11:21:54Z",
+      "url": "https://github.com/yihuanghuan/Distributed-Multi-UAV-Formation-and-Obstacle-Avoidance-System/releases/tag/v2.1",
+      "prerelease": false
+    },
+    {
+      "repo": "Distributed-Multi-UAV-Formation-and-Obstacle-Avoidance-System",
+      "tag": "v1.2",
+      "published_at": "2026-05-06T12:25:05Z",
+      "url": "https://github.com/yihuanghuan/Distributed-Multi-UAV-Formation-and-Obstacle-Avoidance-System/releases/tag/v1.2",
+      "prerelease": false
+    },
+    {
+      "repo": "Distributed-Multi-UAV-Formation-and-Obstacle-Avoidance-System",
+      "tag": "v1.1",
+      "published_at": "2026-04-26T04:07:01Z",
+      "url": "https://github.com/yihuanghuan/Distributed-Multi-UAV-Formation-and-Obstacle-Avoidance-System/releases/tag/v1.1",
+      "prerelease": false
+    },
+    {
+      "repo": "Distributed-Multi-UAV-Formation-and-Obstacle-Avoidance-System",
+      "tag": "v1.0",
+      "published_at": "2026-04-25T12:53:10Z",
+      "url": "https://github.com/yihuanghuan/Distributed-Multi-UAV-Formation-and-Obstacle-Avoidance-System/releases/tag/v1.0",
+      "prerelease": false
+    }
+  ]
+}
