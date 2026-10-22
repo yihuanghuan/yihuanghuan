@@ -1,53 +1,53 @@
 {
-  "checked_at": "2026-10-21T06:07:34Z",
+  "checked_at": "2026-10-22T06:10:47Z",
   "repos": [
     {
       "name": "A_minisnap",
-      "stargazers_count": 1
+      "stargazers_count": 2
     },
     {
       "name": "apf-swarm-control",
-      "stargazers_count": 1
+      "stargazers_count": 2
     },
     {
       "name": "arm-platform",
-      "stargazers_count": 0
+      "stargazers_count": 2
     },
     {
       "name": "circle_LADRC",
-      "stargazers_count": 1
+      "stargazers_count": 2
     },
     {
       "name": "D435i_Apriltag",
-      "stargazers_count": 1
+      "stargazers_count": 2
     },
     {
       "name": "Distributed-Multi-UAV-Formation-and-Obstacle-Avoidance-System",
-      "stargazers_count": 2
+      "stargazers_count": 3
     },
     {
       "name": "distributed-uav-swarm",
-      "stargazers_count": 1
+      "stargazers_count": 2
     },
     {
       "name": "Leader-Follower-swarm",
-      "stargazers_count": 2
+      "stargazers_count": 3
     },
     {
       "name": "LLM-UAVswarm-performance",
-      "stargazers_count": 2
+      "stargazers_count": 3
     },
     {
       "name": "LLM-UAVswarm-ROS1",
-      "stargazers_count": 0
+      "stargazers_count": 2
     },
     {
       "name": "minisnap_LADRC",
-      "stargazers_count": 1
+      "stargazers_count": 2
     },
     {
       "name": "minisnap_PID",
-      "stargazers_count": 2
+      "stargazers_count": 3
     }
   ],
   "releases": [

@@ -30,16 +30,16 @@ I'm especially curious about getting robots to handle **objects they haven't see
 ### What's happening in my repos
 
 <!-- REPO-PULSE:START -->
-12 public projects · 14 received stars
+12 public projects · 28 received stars
 
-+0 stars since the previous check.
++14 stars since the previous check.
 
 | Project | Stars |
 | :-- | --: |
-| [arm-platform](https://github.com/yihuanghuan/arm-platform) | 0 |
-| [camera experiments](https://github.com/yihuanghuan/D435i_Apriltag) | 1 |
-| [LATE-Swarm](https://github.com/yihuanghuan/LLM-UAVswarm-performance) | 2 |
-| [formation &amp; obstacle avoidance](https://github.com/yihuanghuan/Distributed-Multi-UAV-Formation-and-Obstacle-Avoidance-System) | 2 |
+| [arm-platform](https://github.com/yihuanghuan/arm-platform) | 2 |
+| [camera experiments](https://github.com/yihuanghuan/D435i_Apriltag) | 2 |
+| [LATE-Swarm](https://github.com/yihuanghuan/LLM-UAVswarm-performance) | 3 |
+| [formation &amp; obstacle avoidance](https://github.com/yihuanghuan/Distributed-Multi-UAV-Formation-and-Obstacle-Avoidance-System) | 3 |
 
 <details>
 <summary>Latest releases</summary>
@@ -51,7 +51,7 @@ I'm especially curious about getting robots to handle **objects they haven't see
 
 </details>
 
-<sub>Updated 2026-10-21 06:07 UTC · daily checks</sub>
+<sub>Updated 2026-10-22 06:10 UTC · daily checks</sub>
 <!-- REPO-PULSE:END -->
 
 ### Feeding the commit snake
